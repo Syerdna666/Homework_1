@@ -3,7 +3,7 @@ int number = int.Parse(Console.ReadLine());
 
 if (number % 2 == 0)
 {
-    System.Console.WriteLine($"{number} - чётное");
+    System.Console.WriteLine($"Число {number} - чётное");
 }
 else
 {
